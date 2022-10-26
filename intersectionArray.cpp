@@ -8,7 +8,6 @@ typedef long long int lli;
 #define tc  lli t;cin >> t;while(t--)
 #define ffi(x,y) for(lli i=x;i<y;i++)
 #define ffj(x,y) for(lli j=x;j<y;j++)
-#define ffk(x,y) for(lli k=x;k<y;k++)
 #define frj(x,y) for(lli j=x;j>y;j--)
 #define fri(x,y) for(lli i=x;i>y;i--)
 const long double PI = 3.14159265358979323846264338327950288419716939937510582097494459230781640628620899863;
